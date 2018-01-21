@@ -1,5 +1,5 @@
 # Scenario for “Create new meeting” Use Case:
-- (Employee)
+- (Owner)
 - Select “New Meeting” button
 - Select one or more employees to attend meeting.
 - Select meeting time.
