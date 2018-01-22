@@ -50,6 +50,9 @@
 - Send notification to meeting owner.
 - Update meeting to reflect accept or decline. If attendee has accepted the meeting, their schedule is updated with meeting as accepted and their entry in meeting is marked as accepted. If attendee has declined the meeting, their entry in meeting is marked as declined and meeting is removed from schedule
 
+## Exceptions / Alternatives
+- If the meeting is owned by the Employee's manager, it cannot be declined
+
 
 # Scenario for “View Schedule” Use Case:
 - (Employee)
