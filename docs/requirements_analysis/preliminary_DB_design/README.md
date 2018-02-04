@@ -2,7 +2,7 @@
 
 ## Entities
 
-Currently, four database entities are planned:
+Currently, seven database entities are planned:
 - Employee
 - Department
 - Room
