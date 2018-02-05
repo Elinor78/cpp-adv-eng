@@ -132,7 +132,7 @@
 - EmployeeMeeting.pending = False and .accepted = False are set in database
 
 
-# Employee views schedule:
+### Employee views schedule:
 - Employee can view all meetings for the day (pending, accepted, owned).
 - If meeting is owned, owner can click on the meeting to modify or cancel it. This will then follow the “Modify Meeting” or “Cancel Meeting” use case from "Employee is redirected to owned meeting view"
 - If meeting is pending, attendee can click the meeting to accept or decline it. This will then follow the “Accept/Decline Meeting” use case.
