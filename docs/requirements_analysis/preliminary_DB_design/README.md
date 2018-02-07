@@ -33,3 +33,6 @@ The TimeBlock entity is comprised of foreign keys to Meeting and TimeSlot. It is
 ### TimeSlot
 The TimeSlot entity is comprised of begin_time. It is an enumerated entity, which will be created on database creation and then cannot be written to by users of the system. It will enumerate all possible time slots within a day. This will enable efficient checks for schedule availability.
 
+## Technology
+
+Currently we are planning to use SQLite3, which is a low profile relational database. 
