@@ -53,6 +53,6 @@ Once a meeting has been accepted by an Employee, it cannot be removed from that 
 
 ## Available Computing Equipment
 
-This project will be focused on working in a Windows environment. The developers will mainly be working on Windows systems and the demo will be performed on a Windows system.
+This project will be focused on working in a Mac OSX environment. The developers will mainly be working on Mac OSX systems and the demo will be performed on a Mac OSX system.
 
 
