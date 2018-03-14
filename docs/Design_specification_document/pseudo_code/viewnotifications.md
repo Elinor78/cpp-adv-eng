@@ -2,9 +2,6 @@
 
 ## class ViewNotifications
 
-### def populate_meetings
-
-
 ### def translate_timeslot
 	- Input: TimeSlot ts
 	- translates ts to int
